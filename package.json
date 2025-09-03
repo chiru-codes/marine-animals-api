@@ -1,0 +1,13 @@
+{
+  "name": "marine-animals-api",
+  "version": "1.0.0",
+  "description": "API REST de animales marinos con Node.js y SQLite3",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "sqlite3": "^5.1.4"
+  }
+}
